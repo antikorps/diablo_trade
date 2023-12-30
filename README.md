@@ -5,7 +5,7 @@ El programa presenta dos funcionalidades:
 - El modo comparación permite analizar todos los objetos de un usuario y compararlos con los registros del histórico mostrando aquellos que comparten 3 o 4 afijos con un valor comprendido entre el rango de comparación establecido
 
 
-Para ejecutar el programa no es necesaria ninguna instalación adicional. Si no se quiere compilar el código fuente puede descargarse el ejecutable desde "Releases". También se recomienda descarga la base de datos [diablo_trade.zip](https://antikorps13.neocities.org/diablo_trade/diablo_trade.zip) para evitar todo el proceso de scraping desde el principio (recuerda que debe descomprimirse en el mismo directorio que el binario).
+Para ejecutar el programa no es necesaria ninguna instalación adicional. Si no se quiere compilar el código fuente puede descargarse el ejecutable desde "Releases". También se recomienda descarga la base de datos [diablo_trade.zip](https://drive.google.com/file/d/1TWtRagiSV-jdQACLQe6-wXybljeXJGWv/view?usp=sharing) para evitar todo el proceso de scraping desde el principio (recuerda que debe descomprimirse en el mismo directorio que el binario).
 
 Antes de su ejecutar se debe preparar el archivo "configuracion.json" (también en el mismo directorio que el binario) con la siguiente estructura:
 ```json
